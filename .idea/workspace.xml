@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpServers">
+    <servers>
+      <server host="umc-streaming.com" id="e40abddf-5cac-4c1b-bdf2-43587b0a090e" name="umc-streaming" port="22" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Website/angular/NodeJS/js/nodeunit/nodeunit-intellij-starter.js" />
+    <property name="settings.editor.selected.configurable" value="sshConfigs" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="umc-streaming">
+      <method v="2" />
+    </configuration>
+  </component>
+</project>

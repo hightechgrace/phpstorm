@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="umc-streaming.com" id="e40abddf-5cac-4c1b-bdf2-43587b0a090e" name="umc-streaming" port="22" use_path_mappings="true" />
+    </servers>
+  </component>
+</project>
